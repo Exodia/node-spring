@@ -1,0 +1,26 @@
+{
+    "name": "node-spring",
+    "version": "0.0.0",
+    "description": "Spring in node",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Exodia/node-spring.git"
+    },
+    "keywords": [
+        "spring",
+        "ioc"
+    ],
+    "author": "Exodia",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Exodia/node-spring/issues"
+    },
+    "homepage": "https://github.com/Exodia/node-spring",
+    "dependencies": {
+        "uioc": "^0.1.1-alpha.5"
+    }
+}
